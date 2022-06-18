@@ -5,3 +5,4 @@ Team Members
 - Arnav 
 - 60VoltTransistor (William)
 - Amelia
+- Jess
