@@ -3,4 +3,3 @@ Wafflehacks Hackathon Track
 
 Team Members 
 - Arnav 
-- Jess
