@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #155263;
+  
+}
+#title{
+  color:#ffa41b;
+  text-shadow: 2px 2px 3px rgb(100, 50, 150);
+  font-family: 'Pacifico', cursive;
+}
+h1 {
+  color: rgb(140,140,180);
+}
+#search_bar {
+  border-radius: 50px;
+  border:solid rgb(25, 76, 94);
+  font: 16px;
+  background: #ff6f3c;
+  height: 5%;
+  width: 40%;
+  padding: 1em;
+  
+}
+
+#search_button{
+  background-color: #155263;
+  border: none;
+  color: white;
+  padding: 25px 25 px;
+}
